@@ -1,0 +1,12 @@
+---
+title: "Test"
+author: "Rayan"
+format:
+  html:
+    embed-resources: true
+---
+
+```{r}
+library(tidyverse)
+```
+
