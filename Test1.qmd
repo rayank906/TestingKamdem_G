@@ -6,3 +6,7 @@ format:
     embed-resources: true
 ---
 
+```{r}
+print("WELCOME!!!!")
+```
+
